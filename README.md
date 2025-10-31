@@ -2,12 +2,7 @@
 
 ## Project Overview
 This repository features an Exploratory Data Analysis (EDA) of BMW vehicle sales data covering 2010-2024. The analysis focuses on identifying sales trends, patterns, and relevant statistics across models, regions, and vehicle features.
-
-## Dataset Description
-- **Rows:** 50,000
-- **Columns:** 11
-- **Features:** Model, Year, Region, Color, FuelType, Transmission, EngineSize(L), Mileage(KM), Price(USD), SalesVolume, SalesClassification
-- **No missing values** detected in the dataset.
+If only BMW paid us per chart, we'd be buying one, not analyzing them.
 
 ## Key Insights
 - **Electric vehicles have led BMW sales almost every year since 2012.**
